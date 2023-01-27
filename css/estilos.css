@@ -1,0 +1,95 @@
+body{
+	/*background-image: url{"img/fondo.gif"}*/
+	background:red;
+	
+}
+.header
+{
+	font-weight: bold;
+	display: flex;
+	color: white;
+	font-size: 30px;
+	display: flex;   align-items: center;
+	
+}
+
+.header img
+{
+	width:10%;
+	
+}
+.ul
+{
+	color: red;
+}
+
+.slider img
+{
+	width:100%;
+}
+.container
+{
+	border-radius:15px;
+	background:#00255A;
+	width:100%;
+	margin:auto;
+}
+
+.row
+{
+	color: white;
+	margin: 20px;
+	background:#00255A;
+	display: flex;   align-items: top;
+}
+
+.col
+{
+	
+	display:inline-block;
+	width:50%;
+}
+
+.col h2
+{
+	
+}
+
+.col img
+{
+	text-align:center;
+}
+
+.top
+{
+	
+}
+
+
+
+.menu
+{
+font-size: 15px;
+	
+}
+
+.menu li
+{
+	display:inline-block;
+		margin-right:20px;
+}
+
+.menu a:hover
+{
+	text-decoration:underline;
+	color:white;
+	padding:10px;
+	background:red;
+}
+…
+
+.footer
+{
+	
+}
+…
